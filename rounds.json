@@ -1,1 +1,1086 @@
-[]
+[
+  {
+    "roundId": 113591952,
+    "status": "PAID",
+    "snapshotBlock": 113591952,
+    "timestamp": "2026-09-05T17:40:14.161Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xc1233e84cdbe800ecdecbfd958bd9ee7d7f1a57bfaa11f2fc0dfcd997147b1a5"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113592742,
+    "status": "PAID",
+    "snapshotBlock": 113592742,
+    "timestamp": "2026-09-05T17:41:37.572Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xec9263b16732ea264d97113c4b05b6316d7242fb423e1e9967104fb604ee6eb6"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113593190,
+    "status": "PAID",
+    "snapshotBlock": 113593190,
+    "timestamp": "2026-09-05T17:42:30.731Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x7d365463bdb7450539afd016b9fd2d912f95da00b9403885f6766bf07304832b"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113593312,
+    "status": "PAID",
+    "snapshotBlock": 113593312,
+    "timestamp": "2026-09-05T17:42:47.786Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x7077f93f17f409034583d62b0ccf81997cdb521c49a94df3c3a31c9f0497d1c1"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113593872,
+    "status": "PAID",
+    "snapshotBlock": 113593872,
+    "timestamp": "2026-09-05T17:44:35.221Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x9f2743d8341bfbb28f4ff2b497ab3105bc32b3b9173ad95454e7694f6c1b4a4f"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113594477,
+    "status": "PAID",
+    "snapshotBlock": 113594477,
+    "timestamp": "2026-09-05T17:45:03.890Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xa00f07a7ada97df88c357a3795bb606b6eb1caf5f44e43259e1d018b8cba8c8a"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113597722,
+    "status": "PAID",
+    "snapshotBlock": 113597722,
+    "timestamp": "2026-09-05T17:51:00.869Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xd027d8e34395001bd72a2bb7ca612066b49672fb18f411cafd0f874b37f08d80"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113601577,
+    "status": "PAID",
+    "snapshotBlock": 113601577,
+    "timestamp": "2026-09-05T17:58:42.244Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xaeb60cea739c1a0713c3ae682a591df5a52e36763037a1911692815b0112e0fb"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113601689,
+    "status": "PAID",
+    "snapshotBlock": 113601689,
+    "timestamp": "2026-09-05T17:58:56.083Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x378adf999d022d78ff38fe338dbedd94517aa4e2322fd966216fd00305538d35"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113601706,
+    "status": "PAID",
+    "snapshotBlock": 113601706,
+    "timestamp": "2026-09-05T17:59:08.602Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x264160d9f4b0f8f0b3b78d4d1d4b4eb4b4d08c6f91dd25df432109e4d126a2c7"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113617994,
+    "status": "PAID",
+    "snapshotBlock": 113617994,
+    "timestamp": "2026-09-05T18:31:46.302Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0x9641ff4721fb5001837c58e57e7676ce77179ce7aa2b09a581ba4dcdfc1b8ea9"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 113618094,
+    "status": "PAID",
+    "snapshotBlock": 113618094,
+    "timestamp": "2026-09-05T18:32:08.146Z",
+    "ethSpentWei": "0",
+    "ponsDistributedRaw": "999999999999999999998",
+    "ponsDustRaw": "2",
+    "recipientCount": 4,
+    "swapStubbed": true,
+    "payoutTxHashes": [
+      "0xc20f571684de30253c185337d40a9a65f8888558c4b87a45af24984a0e2485c2"
+    ],
+    "payouts": [
+      {
+        "address": "0x288b06efaa3bb23546954f29dedae202a0f568e8",
+        "balanceRaw": "12000000000000000000000000",
+        "tier": 3,
+        "amountRaw": "854776956637877303891"
+      },
+      {
+        "address": "0xc9ca97df913a3eff9324917dff5baf84371514d3",
+        "balanceRaw": "2500000000000000000000000",
+        "tier": 2,
+        "amountRaw": "133558899474668328732"
+      },
+      {
+        "address": "0xb3f24ca997b899d55f51040433d8f3582adb6ac0",
+        "balanceRaw": "250000000000000000000000",
+        "tier": 1,
+        "amountRaw": "11129908289555694061"
+      },
+      {
+        "address": "0x60342fe91023b3f51e5f3ca24db947975afc3d6d",
+        "balanceRaw": "15000000000000000000000",
+        "tier": 0,
+        "amountRaw": "534235597898673314"
+      }
+    ]
+  },
+  {
+    "roundId": 55408148,
+    "status": "PAID",
+    "snapshotBlock": 55408148,
+    "timestamp": "2026-09-05T20:31:46.254Z",
+    "ethSpentWei": "268325403634648801",
+    "ponsDistributedRaw": "737930370072836836944",
+    "ponsDustRaw": "48",
+    "recipientCount": 98,
+    "swapTxHash": "0x63674f1c53bfe83bd7aa7e5f970ed50d3aa940ab6aeeb8177a1ffeaf64b3cd32",
+    "payoutTxHashes": [
+      "0x311baa2d811d6ed8241b264c996532647eaee7c66d6ed79f5280fa9f160e9c82"
+    ],
+    "payouts": [
+      {
+        "address": "0xddf8cbf85ebdae4ca5c6a5d2291c310216d26c14",
+        "balanceRaw": "35011480286392847535646635",
+        "tier": 3,
+        "amountRaw": "46877825230695029269"
+      },
+      {
+        "address": "0x1a974d2add88857d7a3d27fd7b5c81959f0bf92a",
+        "balanceRaw": "28303511195370124818027138",
+        "tier": 3,
+        "amountRaw": "37896342581871414801"
+      },
+      {
+        "address": "0x3d00820c0df7e8342305f514fe3681fcba74911a",
+        "balanceRaw": "27789030219557644008749898",
+        "tier": 3,
+        "amountRaw": "37207489980628266726"
+      },
+      {
+        "address": "0xffa204a32da60ab3347066b43a41abbd2750a2c7",
+        "balanceRaw": "18677061076577243618964581",
+        "tier": 3,
+        "amountRaw": "25007226138652638342"
+      },
+      {
+        "address": "0x4b6bc967818340ee1168dca8a92b68a717528aad",
+        "balanceRaw": "16884130739028347480059533",
+        "tier": 3,
+        "amountRaw": "22606622841479465864"
+      },
+      {
+        "address": "0xaeeeebfdfbba56d4b3f933f4dbc2cc11a937615a",
+        "balanceRaw": "15654513068460573882410756",
+        "tier": 3,
+        "amountRaw": "20960254227814969804"
+      },
+      {
+        "address": "0xf907c07de66570350c27a62cb1ec8b23f328cf58",
+        "balanceRaw": "15634223706225189483560625",
+        "tier": 3,
+        "amountRaw": "20933088247709802263"
+      },
+      {
+        "address": "0x35b01f4d927bf314bfca1489d96f7c5a33902d6f",
+        "balanceRaw": "14621739608292449885145605",
+        "tier": 3,
+        "amountRaw": "19577445692653502281"
+      },
+      {
+        "address": "0x2223b635387a1eec8c803443308b18ac5892cef6",
+        "balanceRaw": "14459403749593902143069320",
+        "tier": 3,
+        "amountRaw": "19360089786805016365"
+      },
+      {
+        "address": "0x7eb9b32910152e765fbb9738edf5304b86d3dd04",
+        "balanceRaw": "14304577821817989551385305",
+        "tier": 3,
+        "amountRaw": "19152789132160025155"
+      },
+      {
+        "address": "0x9511489bc9526b44105c6601810665d61d1b8d98",
+        "balanceRaw": "13612913879503253770316901",
+        "tier": 3,
+        "amountRaw": "18226701427756246236"
+      },
+      {
+        "address": "0xc4b1e8a04af81d3d1ff84f035870092bd81cd795",
+        "balanceRaw": "12537393163800534377093342",
+        "tier": 3,
+        "amountRaw": "16786657427037458776"
+      },
+      {
+        "address": "0xeb1139c6f287030f6b0f07db099696f4defda090",
+        "balanceRaw": "12107700948917311167918270",
+        "tier": 3,
+        "amountRaw": "16211330808810621102"
+      },
+      {
+        "address": "0x376baa0e30416eb49c9bc81ffb92a030bb08308f",
+        "balanceRaw": "12009065462008723158590133",
+        "tier": 3,
+        "amountRaw": "16079265066973297677"
+      },
+      {
+        "address": "0x07c5a3396f32d2ff369d2fff1ed9129cfeec1e65",
+        "balanceRaw": "12003507800579841916035726",
+        "tier": 3,
+        "amountRaw": "16071823762606177710"
+      },
+      {
+        "address": "0xcd42e0918a64d1b1d7a5f212c479907b83d7ba3b",
+        "balanceRaw": "11601469185939037397995174",
+        "tier": 3,
+        "amountRaw": "15533523303472288463"
+      },
+      {
+        "address": "0x5b98d4d0f8c1a43e32962f5862d5497622356931",
+        "balanceRaw": "11230740950091320997580575",
+        "tier": 3,
+        "amountRaw": "15037145163902239198"
+      },
+      {
+        "address": "0x7c5b3ab1d5cc8790b021c77730052e6a73be177f",
+        "balanceRaw": "10877503343996939241901536",
+        "tier": 3,
+        "amountRaw": "14564185705234701717"
+      },
+      {
+        "address": "0x8bd8f5a909d0f4d6b6a9dc8eecaabe484ca40bb6",
+        "balanceRaw": "10776966025378198577969063",
+        "tier": 3,
+        "amountRaw": "14429573549084202866"
+      },
+      {
+        "address": "0x1cf573d7cf5bb752a15216e585e41e52fda6343b",
+        "balanceRaw": "10540673146241497578330590",
+        "tier": 3,
+        "amountRaw": "14113194572793587979"
+      },
+      {
+        "address": "0xff0bfccc87f875cea8606269e66d5c481c38ce19",
+        "balanceRaw": "10374489853012813690098403",
+        "tier": 3,
+        "amountRaw": "13890687231986770414"
+      },
+      {
+        "address": "0xc7533c55189c948d39e170903b44ac72f0c0d6dd",
+        "balanceRaw": "10320193316421563259965943",
+        "tier": 3,
+        "amountRaw": "13817988119234719676"
+      },
+      {
+        "address": "0x3af93ac1552ee246384c6de3a02b189c6e1819ff",
+        "balanceRaw": "10256452967710945169822208",
+        "tier": 3,
+        "amountRaw": "13732644429034874093"
+      },
+      {
+        "address": "0xb3b5b64c8e295582b7e91c611e4e9cd6088d1b6f",
+        "balanceRaw": "10219249713804854130901212",
+        "tier": 3,
+        "amountRaw": "13682831978365637079"
+      },
+      {
+        "address": "0x01fc935362eb9e778e0e09e0d1a15f8f21ac623f",
+        "balanceRaw": "10106660548984897974965852",
+        "tier": 3,
+        "amountRaw": "13532083276850406304"
+      },
+      {
+        "address": "0x8de6b37f068a571b121fd3e46854d85b10ad87ea",
+        "balanceRaw": "9912307541165030004688081",
+        "tier": 2,
+        "amountRaw": "9953894053036373393"
+      },
+      {
+        "address": "0xf409730fce5b0880ebedf0cca7981b4ea3c60499",
+        "balanceRaw": "9755507114555832760013490",
+        "tier": 2,
+        "amountRaw": "9796435779323912373"
+      },
+      {
+        "address": "0xbdc1629ae338bc8d899447b4af4727a77fcce115",
+        "balanceRaw": "9511714361097706025915819",
+        "tier": 2,
+        "amountRaw": "9551620207496427190"
+      },
+      {
+        "address": "0x1878042002442e2b20fafd72ec02dfc3a91d4210",
+        "balanceRaw": "9500162854963511309470753",
+        "tier": 2,
+        "amountRaw": "9540020237687655532"
+      },
+      {
+        "address": "0xaea12b0ca4fd4c10355baef4879f2e111f8bf9cd",
+        "balanceRaw": "9406708657986554168599796",
+        "tier": 2,
+        "amountRaw": "9446173959042946554"
+      },
+      {
+        "address": "0x9d27c2760d0c42258ab4e8cdea85cdd015d79877",
+        "balanceRaw": "9226594038342578529255826",
+        "tier": 2,
+        "amountRaw": "9265303678949885784"
+      },
+      {
+        "address": "0xefdc7784e1e8d070399bde563521e5953d8de2fe",
+        "balanceRaw": "9144021540887476384836797",
+        "tier": 2,
+        "amountRaw": "9182384753366781926"
+      },
+      {
+        "address": "0xf2c1349be99308c9220a93457e28ba49643ae154",
+        "balanceRaw": "8617151583141095942789581",
+        "tier": 2,
+        "amountRaw": "8653304343244758305"
+      },
+      {
+        "address": "0xc9789d173373326c4da8034d57b96aeb25814fb7",
+        "balanceRaw": "8468725078885007073730236",
+        "tier": 2,
+        "amountRaw": "8504255124191369839"
+      },
+      {
+        "address": "0x019f0bc3cdddab2210349f88ae419357ba4e8692",
+        "balanceRaw": "8226840936793708657870674",
+        "tier": 2,
+        "amountRaw": "8261356171199098590"
+      },
+      {
+        "address": "0x686c628ab0127a3692b0d3ebe9af359772ed6ddd",
+        "balanceRaw": "7180511936915266526657026",
+        "tier": 2,
+        "amountRaw": "7210637358636367870"
+      },
+      {
+        "address": "0xf2cd2fc4504579d6d7362e472da114c60bbb5a79",
+        "balanceRaw": "6885722286273522675604246",
+        "tier": 2,
+        "amountRaw": "6914610935098398770"
+      },
+      {
+        "address": "0xe6f052694ca8102aa987315a2e846f0690630c02",
+        "balanceRaw": "6505667182531437685102558",
+        "tier": 2,
+        "amountRaw": "6532961332192733830"
+      },
+      {
+        "address": "0x957ce67f20a3e2960dee1b8146c44ba3b47816cf",
+        "balanceRaw": "6463778259055048969322291",
+        "tier": 2,
+        "amountRaw": "6490896666165360474"
+      },
+      {
+        "address": "0x82e2ab3e2844d315609181b0154a3d30c69b2138",
+        "balanceRaw": "6028258320064651975162603",
+        "tier": 2,
+        "amountRaw": "6053549528509283041"
+      },
+      {
+        "address": "0xa84fee7e3528c4e38d8ec2757fe2c799ea9868f2",
+        "balanceRaw": "5831323786576743483744591",
+        "tier": 2,
+        "amountRaw": "5855788767598470175"
+      },
+      {
+        "address": "0x96e1173337de360e7c7b26dfb9684cf1ba5fcdc8",
+        "balanceRaw": "5603656026702631538134231",
+        "tier": 2,
+        "amountRaw": "5627165840831139124"
+      },
+      {
+        "address": "0xdb2b95ddad7b6d8d12c1655a0b38dfd369e38340",
+        "balanceRaw": "5535557938581050240221186",
+        "tier": 2,
+        "amountRaw": "5558782051127123764"
+      },
+      {
+        "address": "0x127afaaefcf265ac8c98eb048d470b54beb71e97",
+        "balanceRaw": "4947938123460928464151113",
+        "tier": 2,
+        "amountRaw": "4968696911125197789"
+      },
+      {
+        "address": "0x89ca9ec6ee9932d61093e81eb4131efd336ce36c",
+        "balanceRaw": "4648110436119751627927464",
+        "tier": 2,
+        "amountRaw": "4667611314096777151"
+      },
+      {
+        "address": "0x4f55cb15805ce098bdde722d49d1c464b51cc222",
+        "balanceRaw": "4609608854297035615961789",
+        "tier": 2,
+        "amountRaw": "4628948201118688241"
+      },
+      {
+        "address": "0x03c3239111e983c55ed95b595e6a694cc7513daa",
+        "balanceRaw": "4477603181209104528832096",
+        "tier": 2,
+        "amountRaw": "4496388705879037403"
+      },
+      {
+        "address": "0xbe1babc4c390cadfbe4c5f1b87ecbe98271f9ed0",
+        "balanceRaw": "4242148644310643463354648",
+        "tier": 2,
+        "amountRaw": "4259946333115594827"
+      },
+      {
+        "address": "0x638aadf9bf83bb5d7e58d3a7e4014b2c3f57d8c9",
+        "balanceRaw": "3702921390964435777553719",
+        "tier": 2,
+        "amountRaw": "3718456783076159410"
+      },
+      {
+        "address": "0x77c539cc4ad0f1a67e950fa7937817479221b2f4",
+        "balanceRaw": "3666877549469680006298049",
+        "tier": 2,
+        "amountRaw": "3682261721733150796"
+      },
+      {
+        "address": "0x317131b1dc2f566e84c0b49765814785045561e1",
+        "balanceRaw": "3592193647708367624445672",
+        "tier": 2,
+        "amountRaw": "3607264487989926358"
+      },
+      {
+        "address": "0x923ea27c7effa722b17b09ba4d0e0a8f54d1c9ec",
+        "balanceRaw": "3533150254894556653227675",
+        "tier": 2,
+        "amountRaw": "3547973382043126038"
+      },
+      {
+        "address": "0x72714c1e87b43f5a6bde61d1a0fde665425d383b",
+        "balanceRaw": "3366880241206421419327850",
+        "tier": 2,
+        "amountRaw": "3381005792147899335"
+      },
+      {
+        "address": "0x75954d314abe4d458fb7aadc59d657f974cf0cac",
+        "balanceRaw": "3308309859256845664123039",
+        "tier": 2,
+        "amountRaw": "3322189681555004179"
+      },
+      {
+        "address": "0xc8bc18d4e5e996f9b6c8b8b76cda8584c0874778",
+        "balanceRaw": "3229569975182927709504925",
+        "tier": 2,
+        "amountRaw": "3243119448860425558"
+      },
+      {
+        "address": "0x6b04df9aa5905cd70b3b15819e87cd2ce2a910d3",
+        "balanceRaw": "3176810426970246242540229",
+        "tier": 2,
+        "amountRaw": "3190138551020630371"
+      },
+      {
+        "address": "0x4c2ee45b6c60d9d5390516072921f10c78acb132",
+        "balanceRaw": "3100269520629062996817924",
+        "tier": 2,
+        "amountRaw": "3113276521742433522"
+      },
+      {
+        "address": "0xfad4551af4dfe30bb335ad0b3d803e39e4acec00",
+        "balanceRaw": "2466283880047369593514684",
+        "tier": 2,
+        "amountRaw": "2476631031145108640"
+      },
+      {
+        "address": "0x8b734190d9450025d2a56788c4fa19fb5d6a1520",
+        "balanceRaw": "2436163765970023945767760",
+        "tier": 2,
+        "amountRaw": "2446384549874610253"
+      },
+      {
+        "address": "0xf03501e3b1d8c70e21c5661d2de817dd30c01e3f",
+        "balanceRaw": "2424510844249848391889909",
+        "tier": 2,
+        "amountRaw": "2434682738996643802"
+      },
+      {
+        "address": "0xe5cee38a62a7e2c3c4bb379209b35e1f369616ba",
+        "balanceRaw": "2406592077239003548436551",
+        "tier": 2,
+        "amountRaw": "2416688794837196409"
+      },
+      {
+        "address": "0xd17fbea144dc9a9d06271507aaf26b2f144313b7",
+        "balanceRaw": "2246039484158771418710658",
+        "tier": 2,
+        "amountRaw": "2255462612656709094"
+      },
+      {
+        "address": "0x90c34db80d33618f243b5664969530a80fc3b280",
+        "balanceRaw": "2120411317469812104315142",
+        "tier": 2,
+        "amountRaw": "2129307380274550811"
+      },
+      {
+        "address": "0xc0ddcc58ae90df97300fab7de9267dbdb1590247",
+        "balanceRaw": "1814368676763764850574315",
+        "tier": 2,
+        "amountRaw": "1821980755404573608"
+      },
+      {
+        "address": "0xe0fbf8dbf2e8d9acdd708be03fadc130eecc5983",
+        "balanceRaw": "1649705188121772487128559",
+        "tier": 2,
+        "amountRaw": "1656626430638222840"
+      },
+      {
+        "address": "0x07ac912d32838f0146ac237785e16f15606da1bb",
+        "balanceRaw": "1647962269965024507080933",
+        "tier": 2,
+        "amountRaw": "1654876200169350225"
+      },
+      {
+        "address": "0xdf248631465cc82f6f64764a8d557a30b2f2ab4f",
+        "balanceRaw": "1646422767387171186885482",
+        "tier": 2,
+        "amountRaw": "1653330238697645601"
+      },
+      {
+        "address": "0xdcab379dd902a3a89fcb6935d8c63de835a1f69a",
+        "balanceRaw": "1366673725662223208389912",
+        "tier": 2,
+        "amountRaw": "1372407526079580425"
+      },
+      {
+        "address": "0x4ebeca1ac042690a723dafb569645413d0f00b9b",
+        "balanceRaw": "1329063216384397131933222",
+        "tier": 2,
+        "amountRaw": "1334639224089605937"
+      },
+      {
+        "address": "0xa5bb6dbdd21eba463845d898a5e844f3d362e00d",
+        "balanceRaw": "1312140384471916107993491",
+        "tier": 2,
+        "amountRaw": "1317645393416513171"
+      },
+      {
+        "address": "0x04bc2a7a2ab224f41297e999d7622704989e7c84",
+        "balanceRaw": "1300710224237137887721520",
+        "tier": 2,
+        "amountRaw": "1306167278606847024"
+      },
+      {
+        "address": "0x5744b8f25239daef1ccac7008dc9a6159d40e929",
+        "balanceRaw": "1291554311604063461140855",
+        "tier": 2,
+        "amountRaw": "1296972952872905110"
+      },
+      {
+        "address": "0xca1dc704ea2be4f9a84cdaef5a04616095e52788",
+        "balanceRaw": "1282494734865307329109387",
+        "tier": 2,
+        "amountRaw": "1287875367204943443"
+      },
+      {
+        "address": "0xf7722e9de64a1ccdd0d795b2baa573bd33746b5b",
+        "balanceRaw": "1273530147252666269051708",
+        "tier": 2,
+        "amountRaw": "1278873169184470850"
+      },
+      {
+        "address": "0xfa94ebdf91c62cd5f1790f2fc0159d52ed5dd7b6",
+        "balanceRaw": "1264659225450611975538189",
+        "tier": 2,
+        "amountRaw": "1269965029944065413"
+      },
+      {
+        "address": "0x8f7e4c035a57f88c0de9a3f3e4d10e47eb1cc783",
+        "balanceRaw": "1255880669107905041338266",
+        "tier": 2,
+        "amountRaw": "1261149643676939453"
+      },
+      {
+        "address": "0xb96c9cac83ae5ea9976c3f14b3245afde955d360",
+        "balanceRaw": "1244308863487242437456900",
+        "tier": 2,
+        "amountRaw": "1249529289216380786"
+      },
+      {
+        "address": "0x631417b7ce5bb9daec390d4dab7ed1158ff493f1",
+        "balanceRaw": "1115299354036498264651552",
+        "tier": 2,
+        "amountRaw": "1119978527844829182"
+      },
+      {
+        "address": "0x9c2c34c4051a2c3a19de2830d81ba8fc360b8640",
+        "balanceRaw": "933912017383474325334554",
+        "tier": 1,
+        "amountRaw": "781525159276885435"
+      },
+      {
+        "address": "0xd0d0879c4156476a04fd0239c4298b81bf79311b",
+        "balanceRaw": "865762424920605653266689",
+        "tier": 1,
+        "amountRaw": "724495567502900493"
+      },
+      {
+        "address": "0x8888b57f8efa75468256cf0fa46195aaddd28888",
+        "balanceRaw": "839814392227712107130263",
+        "tier": 1,
+        "amountRaw": "702781487369259095"
+      },
+      {
+        "address": "0x663182673012a4e5f4a19d3dc6c3ee8d516af0a1",
+        "balanceRaw": "836230564262282056395621",
+        "tier": 1,
+        "amountRaw": "699782434279278761"
+      },
+      {
+        "address": "0x35ed35ba36c74069f1234415f78def01f92c2903",
+        "balanceRaw": "836127602060678723210478",
+        "tier": 1,
+        "amountRaw": "699696272467984172"
+      },
+      {
+        "address": "0xde906cd0777b8ff1f27aadd923eae33677938d8d",
+        "balanceRaw": "832567322667124126361801",
+        "tier": 1,
+        "amountRaw": "696716925518457270"
+      },
+      {
+        "address": "0x971eb3d8eba2f3978f72152dc26add944fc195c0",
+        "balanceRaw": "832465036267150793173793",
+        "tier": 1,
+        "amountRaw": "696631329237926494"
+      },
+      {
+        "address": "0x6b47001f7a0b4f7820331e0ab58bbf7600bbd52b",
+        "balanceRaw": "828826483086471885229648",
+        "tier": 1,
+        "amountRaw": "693586480471514400"
+      },
+      {
+        "address": "0xb61e7a293e6cd480c26aafebe979f2417a0b5f41",
+        "balanceRaw": "825211733066857969141797",
+        "tier": 1,
+        "amountRaw": "690561550893308847"
+      },
+      {
+        "address": "0x08dda4ac6e72d7c69946717174f55e324c5db9f2",
+        "balanceRaw": "824746214889487851505433",
+        "tier": 1,
+        "amountRaw": "690171991533386744"
+      },
+      {
+        "address": "0x5de8057cd845a0c788cefd490539b92ddc27f9d6",
+        "balanceRaw": "726319315674825202917455",
+        "tier": 1,
+        "amountRaw": "607805455227982586"
+      },
+      {
+        "address": "0x3db0615864a8a582ab4950a7ce74a2ab712e51da",
+        "balanceRaw": "648285984801778323145479",
+        "tier": 1,
+        "amountRaw": "542504859235734248"
+      },
+      {
+        "address": "0x02d058a448bade5b86a6e15f9bde9cdaa5cd0dad",
+        "balanceRaw": "641538795735238380816491",
+        "tier": 1,
+        "amountRaw": "536858612146343066"
+      },
+      {
+        "address": "0xa8687ba4a6f0a8ca3192dba942dd585ed139390e",
+        "balanceRaw": "588332699278029537523692",
+        "tier": 1,
+        "amountRaw": "492334179186672204"
+      },
+      {
+        "address": "0x49a2e32c477aeb98354544d3f7c24b20faed2d5a",
+        "balanceRaw": "538659141371418449233143",
+        "tier": 1,
+        "amountRaw": "450765878819815005"
+      },
+      {
+        "address": "0xdcbc6da4b4368283d3e77e9bbef4c51ba9bfb1fc",
+        "balanceRaw": "468802001756473192427614",
+        "tier": 1,
+        "amountRaw": "392307361156496005"
+      },
+      {
+        "address": "0x1d4644393f15f8c1ccffffdfde3df9042c230180",
+        "balanceRaw": "466851481534821972898697",
+        "tier": 1,
+        "amountRaw": "390675108226322147"
+      },
+      {
+        "address": "0x6423b396e0c09c0d0e84b965d320cadeb22e9a76",
+        "balanceRaw": "449966599265406931515052",
+        "tier": 1,
+        "amountRaw": "376545340047573414"
+      },
+      {
+        "address": "0xd23b03a286fa63a5740b00cd43424c2c2b3da02d",
+        "balanceRaw": "405440837030529106621597",
+        "tier": 1,
+        "amountRaw": "339284867139182528"
+      },
+      {
+        "address": "0x19d7e7da93ca9f91bc62ea89553f9710f8153150",
+        "balanceRaw": "201877161809546340621782",
+        "tier": 1,
+        "amountRaw": "168936771452624281"
+      }
+    ]
+  }
+]
